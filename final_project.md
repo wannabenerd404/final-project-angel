@@ -20,19 +20,19 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 Here's some words about the book _One Hundred Years..._.
 # **_Links_**
 ## **Lesson 1**
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 ## **Lesson 2**
-You're [**really, really**](www.dailykitten.com) going to want to see this.
+You're [**really, really**](https://www.dailykitten.com) going to want to see this.
 ## **Lesson 3**
-The Latest News from [the BBC](www.bbc.com/news)
+The Latest News from [the BBC](https://www.bbc.com/news)
 ## **Lesson 4**
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]:www.zombo.com
+[a fun place]:https://www.zombo.com
 
-[another fun place]:www.stumbleupon.com
+[another fun place]:https://www.stumbleupon.com
 # **_Images_**
 ## **Lesson 1**
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
